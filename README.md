@@ -3,24 +3,7 @@
 Estudante de Desenvolvimento de Software e Tecnologia, com foco em desenvolvimento web e design digital.  
 Busco criar experiências intuitivas e funcionais com código e criatividade.
 
-📍Pindamonhangaba - São Paulo, SP |
-
-
-📫 [LinkedIn](https://linkedin.com/in/seu-perfil) | [Portfólio](https://seusite.com)
-
-
-
-## Nos meus momentos livres, gosto de:
-
-🎮 Jogar jogos online
-
-🎧 Ouvir música
-
-⚽ Praticar esportes
-
-📚 Ler livros
-
-🎨 Desenhar
+📍Pindamonhangaba - São Paulo, SP  |  🌐 [Portfólio](https://seusite.com)
 
 
 ## Skills
@@ -35,12 +18,6 @@ Busco criar experiências intuitivas e funcionais com código e criatividade.
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 
---
-
-## 📌 Projetos em Destaque
-
---
-
   ## 🎓 Certificações e Cursos
 - Arquitetura e Urbanismo, Universidade de Taubaté - Incompleto (2019 - 2021)
 - Análise e Desenvolvimento de Sistemas, Universidade Anhembi Morumbi - Incompleto (2022 - 2023)
@@ -53,8 +30,6 @@ Busco criar experiências intuitivas e funcionais com código e criatividade.
 
 ## 📬 Vamos conversar?
 
-📧 beatriz@email.com  
-🔗 [LinkedIn](https://linkedin.com/in/seu-perfil)  
-🌐 [Site pessoal](https://seusite.com)
+🔗 [LinkedIn](https://linkedin.com/in/seu-perfil) 
 
-⭐ Sempre aberta a colaborações e feedbacks!
+📧 email@gmail.com
