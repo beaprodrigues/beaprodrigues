@@ -11,8 +11,7 @@ Pindamonhangaba - São Paulo, SP |
 
 
 ## Sobre Mim
-- 🎓 Cursando [Seu Curso, ex.: Ciência da Computação] na [Universidade].
-- 🌟 Buscando oportunidades em desenvolvimento web e mobile.
+- 
 
 ---
 
