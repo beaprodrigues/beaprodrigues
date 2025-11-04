@@ -34,13 +34,12 @@ Pindamonhangaba - São Paulo, SP |
 ---
 
 ## 🚀 Sobre Mim
--  Cursando [Seu Curso, ex.: Ciência da Computação] na [Universidade].
-- 💻 Experiência em [linguagens/tecnologias, ex.: JavaScript, Python, React].
+
 - 🌟 Buscando oportunidades em [área, ex.: desenvolvimento web ou análise de dados].
 
   ## 🎓 Certificações e Cursos
 - Arquitetura e Urbanismo, Universidade de Taubaté - Incompleto (2019 - 2021)
-- Tecnologia em Análise e Desenvolvimento de Sistema, Universidade Anhembi Morumbi - Incompleto (2021 - 2022)
+- Análise e Desenvolvimento de Sistemas, Universidade Anhembi Morumbi - Incompleto (2022 - 2023)
 - Informática para Internet, SENAC - (2025 - cursando)
 - [Certificação AWS Cloud Practitioner](link) - Concluído em 2023
 - [Curso de Python na Coursera](link) - Nota: 95%
