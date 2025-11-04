@@ -1,6 +1,6 @@
 # **Olá, eu sou Beatriz!**
 
-💻 Estudante de Desenvolvimento de Software e Tecnologia, com foco em desenvolvimento web e design digital.  
+Estudante de Desenvolvimento de Software e Tecnologia, com foco em desenvolvimento web e design digital.  
 Busco criar experiências intuitivas e funcionais com código e criatividade.
 
 Pindamonhangaba - São Paulo, SP | 
