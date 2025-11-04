@@ -1,7 +1,10 @@
 # **Olá, eu sou Beatriz!**
 
-💻 Estudante de Desenvolvimento de Software e Tecnologia.
+💻 Estudante de Desenvolvimento de Software e Tecnologia, com foco em desenvolvimento web e design digital.  
+Busco criar experiências intuitivas e funcionais com código e criatividade.
+
 Pindamonhangaba - São Paulo, SP | 
+
 📫 [LinkedIn](https://linkedin.com/in/seu-perfil) | [Portfólio](https://seusite.com)
 
 ---
@@ -28,12 +31,6 @@ Pindamonhangaba - São Paulo, SP |
 
 ## 📌 Projetos em Destaque
 
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| [ToDo App](https://github.com/seu-usuario/todo-app) | Lista de tarefas com autenticação | React, Firebase |
-| [API de Livros](https://github.com/seu-usuario/api-livros) | CRUD completo com Node.js | Node.js, Express, MongoDB |
-| [Portfólio Pessoal](https://github.com/seu-usuario/portfolio) | Site pessoal com projetos e blog | HTML, CSS, JS |
-
 ---
 
 ## 🚀 Sobre Mim
@@ -50,15 +47,11 @@ Pindamonhangaba - São Paulo, SP |
 - [Bootcamp de Desenvolvimento Web](link) - Udemy
 
 
-## 📊 Linguagens Mais Usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&theme=radical)
 
-## 📈 Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=radical)
+## 📬 Vamos conversar?
 
-## 📫 Contato
-- LinkedIn: [Seu LinkedIn](link)
-- Email: seuemail@example.com
-- Portfólio: [Seu Site](link)
+📧 beatriz@email.com  
+🔗 [LinkedIn](https://linkedin.com/in/seu-perfil)  
+🌐 [Site pessoal](https://seusite.com)
 
 ⭐ Sempre aberta a colaborações e feedbacks!
