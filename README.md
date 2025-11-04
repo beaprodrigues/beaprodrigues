@@ -32,10 +32,6 @@ Pindamonhangaba - São Paulo, SP |
 
 ---
 
-## 🚀 Sobre Mim
-
-- 🌟 Buscando oportunidades em [área, ex.: desenvolvimento web ou análise de dados].
-
   ## 🎓 Certificações e Cursos
 - Arquitetura e Urbanismo, Universidade de Taubaté - Incompleto (2019 - 2021)
 - Análise e Desenvolvimento de Sistemas, Universidade Anhembi Morumbi - Incompleto (2022 - 2023)
