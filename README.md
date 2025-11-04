@@ -3,17 +3,25 @@
 Estudante de Desenvolvimento de Software e Tecnologia, com foco em desenvolvimento web e design digital.  
 Busco criar experiências intuitivas e funcionais com código e criatividade.
 
-Pindamonhangaba - São Paulo, SP | 
+📍Pindamonhangaba - São Paulo, SP |
+
 
 📫 [LinkedIn](https://linkedin.com/in/seu-perfil) | [Portfólio](https://seusite.com)
 
----
 
 
-## Sobre Mim
-- 
+## Nos meus momentos livres, gosto de:
 
----
+🎮 Jogar jogos online
+
+🎧 Ouvir música
+
+⚽ Praticar esportes
+
+📚 Ler livros
+
+🎨 Desenhar
+
 
 ## Skills
 
@@ -26,11 +34,12 @@ Pindamonhangaba - São Paulo, SP |
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
----
+
+--
 
 ## 📌 Projetos em Destaque
 
----
+--
 
   ## 🎓 Certificações e Cursos
 - Arquitetura e Urbanismo, Universidade de Taubaté - Incompleto (2019 - 2021)
