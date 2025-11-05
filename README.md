@@ -20,10 +20,7 @@ Busco criar experiências intuitivas e funcionais com código e criatividade.
 - Arquitetura e Urbanismo, Universidade de Taubaté - Incompleto (2019 - 2021)
 - Análise e Desenvolvimento de Sistemas, Universidade Anhembi Morumbi - Incompleto (2022 - 2023)
 - Informática para Internet, SENAC - (2025 - cursando)
-- [Certificação AWS Cloud Practitioner](link) - Concluído em 2023
-- [Curso de Python na Coursera](link) - Nota: 95%
-- [Bootcamp de Desenvolvimento Web](link) - Udemy
-
+- [Competência Transversal - Lógica de Programação - SENAI]([link](https://sp.senai.br/curso/competencia-transversal-logica-de-programacao/95088)) - Concluído 
 
 
 ## 📬 Vamos conversar?
