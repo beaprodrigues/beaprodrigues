@@ -20,7 +20,7 @@ Busco criar experiências intuitivas e funcionais com código e criatividade.
 - Arquitetura e Urbanismo, Universidade de Taubaté - Incompleto (2019 - 2021)
 - Análise e Desenvolvimento de Sistemas, Universidade Anhembi Morumbi - Incompleto (2022 - 2023)
 - Informática para Internet, SENAC - (2025 - cursando)
-- [Lógica de Programação, SENAI]([ttps://sp.senai.br/curso/competencia-transversal-logica-de-programacao/95088]) - Concluído 
+- [Lógica de Programação, SENAI]([https://sp.senai.br/curso/competencia-transversal-logica-de-programacao/95088]) - Concluído 
 
 
 ## 📬 Vamos conversar?
