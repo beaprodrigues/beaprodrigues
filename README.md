@@ -1,8 +1,8 @@
-# Olá, eu sou a Beatriz!
+# Olá, eu sou Beatriz Rodrigues!
 
-### 💻 Suporte Técnico | Java | Automação
+### 💻 Engenharia de Software | Java | Spring Boot | Automação
 
-Foco em Suporte Técnico, Backend Java e Automação com Python.  
+Foco em desenvolvimento de software - Backend Java e Automação com Python.  
 Aqui você encontrará projetos voltados para Java, automação e nuvem.
 
  
