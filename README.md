@@ -2,8 +2,8 @@
 
 ### 💻 Suporte Técnico | Java | Automação
 
-Foco em Suporte Técnico, Backend Java e Automação e infraestrutura com Python.  
-Aqui você encontrará projetos voltados para infraestrutura, Java, automação e nuvem.
+Foco em Suporte Técnico, Backend Java e Automação com Python.  
+Aqui você encontrará projetos voltados para Java, automação e nuvem.
 
  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
