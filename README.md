@@ -15,6 +15,12 @@ Estudante de Engenharia de Software em transição para desenvolvimento iOS (Swi
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white)
 ---
+## Projetos
+- **[ResetPet](https://github.com/beaprodrigues/ResetPet):** e-commerce full stack com Node.js, SQLite e Stripe (carrinho, login seguro e pagamentos com webhooks).
+- **[login-gsap](https://github.com/beaprodrigues/login-gsap):** interface de login com microinterações animadas (JavaScript e GSAP).
+  
+## Estudando agora
+- Swift e SwiftUI: [swift-estudos](https://github.com/beaprodrigues/swift-estudos)
 
 ## Contato
 
