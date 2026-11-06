@@ -1,15 +1,16 @@
 # Olá, eu sou Beatriz Rodrigues!
 
-### 💻 Engenharia de Software | Java | Spring Boot | Automação
+### 💻 Engenharia de Software | Swift/SwiftUI | Full Stack
 
-Foco em desenvolvimento de software - Backend Java e Automação com Python.  
-Aqui você encontrará projetos voltados para Java, automação e nuvem.
+Foco em desenvolvimento de software - Full Stack. 
+Em transição para desenvolvimento iOS (Swift/SwiftUI).
+Aqui você encontrará meus projetos e estudos.
 
- 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
