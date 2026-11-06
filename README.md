@@ -18,6 +18,7 @@ Estudante de Engenharia de Software em transição para desenvolvimento iOS (Swi
 ## Projetos
 - **[ResetPet](https://github.com/beaprodrigues/ResetPet):** e-commerce full stack com Node.js, SQLite e Stripe (carrinho, login seguro e pagamentos com webhooks).
 - **[login-gsap](https://github.com/beaprodrigues/login-gsap):** interface de login com microinterações animadas (JavaScript e GSAP).
+- **[network-automation-with-py](https://github.com/beaprodrigues/network-automation-with-py):** scripts Python para automação de configuração de redes.
   
 ## Estudando agora
 - Swift e SwiftUI: [swift-estudos](https://github.com/beaprodrigues/swift-estudos)
