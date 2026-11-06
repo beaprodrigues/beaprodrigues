@@ -25,4 +25,4 @@ Estudante de Engenharia de Software em transição para desenvolvimento iOS (Swi
 ## Contato
 
 [![https://www.linkedin.com/in/beatrizrd/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/beatrizrd) [![beatrizprdev@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beatrizprdev@gmail.com)
-![[Behance](https://www.behance.net/beatrizrd)](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/beatrizrd)
