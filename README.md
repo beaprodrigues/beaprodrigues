@@ -2,9 +2,7 @@
 
 ### 💻 Engenharia de Software | Swift/SwiftUI | Full Stack
 
-Foco em desenvolvimento de software - Full Stack. 
-Em transição para desenvolvimento iOS (Swift/SwiftUI).
-Aqui você encontrará meus projetos e estudos.
+Estudante de Engenharia de Software em transição para desenvolvimento iOS (Swift/SwiftUI), com base em full stack (Node.js). Aqui você encontra meus projetos e estudos.
 
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white)
