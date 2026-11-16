@@ -12,10 +12,10 @@ Estudante de Engenharia de Software em transição para desenvolvimento iOS (Swi
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ## Estudando:
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
-- Swift e SwiftUI: [swift-estudos](https://github.com/beaprodrigues/swift-estudos)
+- Java + Spring Boot: [java-estudos](https://github.com/beaprodrigues/java-estudos)
 ---
 ## Projetos
 - **[ResetPet](https://github.com/beaprodrigues/ResetPet):** e-commerce full stack com Node.js, SQLite e Stripe (carrinho, login seguro e pagamentos com webhooks).
