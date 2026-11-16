@@ -1,8 +1,8 @@
 # Olá, eu sou Beatriz Rodrigues!
 
-### 💻 Engenharia de Software | Swift/SwiftUI | Full Stack
+### 💻 Engenharia de Software | Java e Spring Boot | Full Stack
 
-Estudante de Engenharia de Software em transição para desenvolvimento iOS (Swift/SwiftUI), com base em full stack (Node.js). Aqui você encontra meus projetos e estudos.
+Estudante de Engenharia de Software em transição para desenvolvimento Java e Spring Boot, com base em full stack (Node.js). Aqui você encontra meus projetos e estudos.
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
